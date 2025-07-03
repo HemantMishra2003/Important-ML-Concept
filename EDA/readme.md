@@ -1,0 +1,3 @@
+this folder is of  exploratory data analysis 
+having  all the important files like understanding of data analysis , bivariate ,
+multivariate and pandas profile .... 
