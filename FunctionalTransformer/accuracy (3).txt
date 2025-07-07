@@ -1,0 +1,2 @@
+Accuracy LR: 64.80%
+Accuracy DT: 65.36%
